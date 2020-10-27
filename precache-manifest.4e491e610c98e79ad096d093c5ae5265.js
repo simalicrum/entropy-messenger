@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34acfdc0d72f44541e2eacaf98056635",
+    "revision": "1839630169d64bb115bad47cac7f5161",
     "url": "/entropy-messenger/index.html"
   },
   {
-    "revision": "1968da88919cd42106de",
+    "revision": "728cf90311c4f9cc0360",
     "url": "/entropy-messenger/static/css/2.865514d7.chunk.css"
   },
   {
-    "revision": "69d767fd79815d2e2b94",
+    "revision": "5ac3ddfcedab8f8b1077",
     "url": "/entropy-messenger/static/css/main.52ba6c00.chunk.css"
   },
   {
-    "revision": "1968da88919cd42106de",
-    "url": "/entropy-messenger/static/js/2.1f5c3da3.chunk.js"
+    "revision": "728cf90311c4f9cc0360",
+    "url": "/entropy-messenger/static/js/2.2f7e1cba.chunk.js"
   },
   {
     "revision": "5c266c93cdbadd6e100a90d8176e020b",
-    "url": "/entropy-messenger/static/js/2.1f5c3da3.chunk.js.LICENSE.txt"
+    "url": "/entropy-messenger/static/js/2.2f7e1cba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "69d767fd79815d2e2b94",
-    "url": "/entropy-messenger/static/js/main.8b3fa3e1.chunk.js"
+    "revision": "5ac3ddfcedab8f8b1077",
+    "url": "/entropy-messenger/static/js/main.14116e6a.chunk.js"
   },
   {
     "revision": "d790e42ed786d6038b1f",
