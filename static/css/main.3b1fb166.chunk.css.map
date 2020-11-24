@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Sidebar.css","Main.css"],"names":[],"mappings":"AAAA,EACE,SACF,CCFA,SACE,eACF,CCFA,MACE,cACF","file":"main.3b1fb166.chunk.css","sourcesContent":["* {\n  padding: 0px;\n}\n","#sidebar {\n  background: blue;\n}\n","#main {\n  background: red;\n}\n"]}
