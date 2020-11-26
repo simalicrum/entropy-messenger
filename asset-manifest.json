@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/entropy-messenger/static/css/main.3b1fb166.chunk.css",
-    "main.js": "/entropy-messenger/static/js/main.0922d7fd.chunk.js",
-    "main.js.map": "/entropy-messenger/static/js/main.0922d7fd.chunk.js.map",
+    "main.css": "/entropy-messenger/static/css/main.d2700757.chunk.css",
+    "main.js": "/entropy-messenger/static/js/main.646d947c.chunk.js",
+    "main.js.map": "/entropy-messenger/static/js/main.646d947c.chunk.js.map",
     "runtime-main.js": "/entropy-messenger/static/js/runtime-main.13d3a16d.js",
     "runtime-main.js.map": "/entropy-messenger/static/js/runtime-main.13d3a16d.js.map",
     "static/css/2.865514d7.chunk.css": "/entropy-messenger/static/css/2.865514d7.chunk.css",
-    "static/js/2.9c7ea690.chunk.js": "/entropy-messenger/static/js/2.9c7ea690.chunk.js",
-    "static/js/2.9c7ea690.chunk.js.map": "/entropy-messenger/static/js/2.9c7ea690.chunk.js.map",
+    "static/js/2.3861dd1f.chunk.js": "/entropy-messenger/static/js/2.3861dd1f.chunk.js",
+    "static/js/2.3861dd1f.chunk.js.map": "/entropy-messenger/static/js/2.3861dd1f.chunk.js.map",
     "index.html": "/entropy-messenger/index.html",
-    "precache-manifest.a84b7c3aa00580fd94da06aa95d398e8.js": "/entropy-messenger/precache-manifest.a84b7c3aa00580fd94da06aa95d398e8.js",
+    "precache-manifest.8015136aba08fcc6440285f04332db57.js": "/entropy-messenger/precache-manifest.8015136aba08fcc6440285f04332db57.js",
     "service-worker.js": "/entropy-messenger/service-worker.js",
     "static/css/2.865514d7.chunk.css.map": "/entropy-messenger/static/css/2.865514d7.chunk.css.map",
-    "static/css/main.3b1fb166.chunk.css.map": "/entropy-messenger/static/css/main.3b1fb166.chunk.css.map",
-    "static/js/2.9c7ea690.chunk.js.LICENSE.txt": "/entropy-messenger/static/js/2.9c7ea690.chunk.js.LICENSE.txt",
+    "static/css/main.d2700757.chunk.css.map": "/entropy-messenger/static/css/main.d2700757.chunk.css.map",
+    "static/js/2.3861dd1f.chunk.js.LICENSE.txt": "/entropy-messenger/static/js/2.3861dd1f.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/entropy-messenger/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.13d3a16d.js",
     "static/css/2.865514d7.chunk.css",
-    "static/js/2.9c7ea690.chunk.js",
-    "static/css/main.3b1fb166.chunk.css",
-    "static/js/main.0922d7fd.chunk.js"
+    "static/js/2.3861dd1f.chunk.js",
+    "static/css/main.d2700757.chunk.css",
+    "static/js/main.646d947c.chunk.js"
   ]
 }
