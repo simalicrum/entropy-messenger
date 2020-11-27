@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/entropy-messenger/precache-manifest.366cd8417b6cc81a11cacc6fbed8aba4.js"
+  "/entropy-messenger/precache-manifest.736cf9f7500f5deb8f532cb526ed25ba.js"
 );
 
 self.addEventListener('message', (event) => {

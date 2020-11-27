@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32c87c14f872ef0eaac04af8cdf73e9e",
+    "revision": "46120a97789e53989beb135becbffd8d",
     "url": "/entropy-messenger/index.html"
   },
   {
