@@ -1,0 +1,20 @@
+/*******************************
+     User Global Variables
+*******************************/
+@bg             : #0A0F14;
+@fg             : #98D1CE;
+@one            : #C33027;
+@two            : #26A98B;
+@three          : #EDB54B;
+@four           : #195465;
+@five           : #4E5165;
+@six            : #33859D;
+@seven          : #98D1CE;
+@eight          : #10151B;
+@nine           : #D26939;
+@ten            : #081F2D;
+@eleven         : #245361;
+@twelve         : #093748;
+@thirteen       : #888BA5;
+@fourteen       : #599CAA;
+@fifteen        : #D3EBE9;
